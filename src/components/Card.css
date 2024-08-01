@@ -9,7 +9,7 @@
 }
 
 .card:hover {
-    transform: scale(1.05);
+    transform: scale(1.5);
 }
 
 .image {
@@ -32,7 +32,6 @@
     color: #666;
 }
 
-/* Responsive styles */
 @media (max-width: 768px) {
     .card {
         flex-direction: column;
